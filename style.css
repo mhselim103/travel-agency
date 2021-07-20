@@ -1,0 +1,28 @@
+body{
+    font-family: 'Volkhov', serif !important;
+    
+}
+#top-logo{
+    width: 110px;
+    height: 30px;
+}
+.nav-home {
+    margin-right: 62px;
+    font-weight: bold;
+}
+#sign-up {
+    border: 1px solid;
+    border-radius: 15px;
+}
+.heading{
+    margin-top: 50px;
+}
+.orange {
+    color: orange;
+}
+.extra-bold {
+    font-size: 84px;
+}
+.traveller img {
+    width: 100%;
+}
